@@ -7,3 +7,9 @@ Make sure you have FDS Player and Anaconda installed.
 ```pip install auto-py-to-exe```
 
 ```bash pip install -r requirements.txt ```
+
+## Running The App
+```bash python main.py ```
+
+## Viewing The App
+INSERT LINK HERE
