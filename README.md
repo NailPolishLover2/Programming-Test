@@ -2,7 +2,7 @@
 This is your first programming test.
 
 ## Setup & Installtion
-Make sure you have FDS Player and Anaconda installed.
+Make sure you have Python and Anaconda installed.
 
 ```pip install auto-py-to-exe```
 
